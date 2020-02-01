@@ -1,0 +1,138 @@
+body{
+    font: normal small Arial, Helvetica, sans-serif;
+    color: rgb(138, 75, 24);
+    font-size:17px;
+    margin-top:0px;
+    margin-left:90px;
+    margin-right:30px;
+    margin-bottom:0px;
+    text-align:justify;
+    
+    }
+    
+    
+
+    
+    img{
+        width: 100%;
+    }
+    
+    h1{
+        text-align: center;
+        padding-top: 20px;
+        text-transform: uppercase;
+    }
+    
+    ul{
+    list-style-type:none;
+    margin: 0%;
+    padding: 0%;
+    
+    }
+    
+    ul li{
+        
+        float: left;
+        width: 150px;
+        height: 25px;
+        line-height: 25px;
+        background-color: rgb(236, 167, 18);
+        
+    }
+    
+    
+    a:link, a:visited{
+        display:inline-block;
+        width: 80px;
+        font-weight: bold;
+        color: rgb(78, 71, 9);
+        text-align:left;
+        padding: 2px;
+        text-decoration: none;
+        text-transform: uppercase ;
+    }
+    
+    span{
+        color: rgb(218, 170, 14);
+        font-size: 1.em;
+        text-transform: uppercase;
+    }
+    table{
+        width: 100%;
+        table-layout: fixed;
+    
+    }
+    td{
+        
+        vertical-align: top;
+    }
+    .form{
+       margin:auto;
+       width: 80%;
+       box-shadow: white;
+       padding: 0px 0px;
+       margin-top: 0px;
+       
+    }
+    
+     
+     
+      .admin{
+       
+        width: 50%;
+        box-shadow: white;
+        padding: 0px 0px;
+        position: absolute;
+        top:15%;
+        left:5%;
+      }
+
+     
+      
+      
+
+      .dtelm{
+        width: 50%;
+        height: 50px;
+        border: 5px solid #aaa;
+        border-radius: 5px;
+        margin: 5px 0px;
+        outline: none;
+        font-size: 15px;
+  }
+  
+
+      
+      .comtainer-fluid{
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 50%;
+      }
+       .button{
+        width: 10%;
+        background-color: lightblue;
+        color: black;
+        padding: 5px 5px;
+        margin: 5px;
+        border: none;
+        font-size: 20px;
+      }
+      .item{
+        margin:auto;
+        width: 10%;
+        box-shadow: white;
+        padding:16px;
+       
+        
+      }
+      .container {
+        padding: 16px;
+      }
+
+      #billing{
+        width:100%; border: solid 1px #ccc;
+      }
+
+      #billing td,#billing th{
+        padding: 4px;
+      }
